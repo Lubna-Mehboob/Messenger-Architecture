@@ -1,0 +1,1 @@
+//Defines user data (ID, name, online status, avatar, etc.)

@@ -1,0 +1,1 @@
+//Defines messages (text, timestamps, read status, etc.)

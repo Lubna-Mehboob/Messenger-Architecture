@@ -1,0 +1,1 @@
+//Contains predefined colors for the app (e.g., primary, secondary colors)

@@ -1,0 +1,1 @@
+//Defines push notifications structure for messages

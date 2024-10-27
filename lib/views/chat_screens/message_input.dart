@@ -1,0 +1,1 @@
+//Message input box at the bottom of the chat screen

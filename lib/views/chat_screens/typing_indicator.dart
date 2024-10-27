@@ -1,0 +1,1 @@
+//Widget that shows when the other user is typing

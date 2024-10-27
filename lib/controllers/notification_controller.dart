@@ -1,0 +1,1 @@
+//Manages message notifications (push notifications, in-app alerts)
